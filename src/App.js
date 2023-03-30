@@ -7,7 +7,6 @@ import PostalLookup from "./routes/postal-lookup/postal-lookup.component";
 import Universities from "./routes/universities/universities.component";
 
 function App() {
-
   return (
     <Routes>
       <Route path="/" element={<Navigation />}>
